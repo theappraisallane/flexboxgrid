@@ -2,6 +2,7 @@ Flexbox Grid
 ===========
 
 ## Forked for The Appraisal Lane, LLC.
+Modified to better support inline CSS and maintained responsiveness.
 
 [flexboxgrid.com](http://flexboxgrid.com)
 
@@ -12,24 +13,11 @@ Install
 ### npm
 `npm i flexboxgrid --save`
 
-### bower
-`bower install flexboxgrid`
-### cdn
-
 <code>CDNJS</code>
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >
 ```
 
-### css
-* [Development](https://raw.githubusercontent.com/kristoferjoseph/flexboxgrid/master/dist/flexboxgrid.css)
-* [Production](https://raw.githubusercontent.com/kristoferjoseph/flexboxgrid/master/dist/flexboxgrid.min.css)
-
-Add the `flexboxgrid.css` __development__ or `flexboxgrid.min.css` __production__ to your html page.
-
-```html
-<link rel="stylesheet" href="css/flexboxgrid.min.css" type="text/css">
-```
 Inspiration
 -----------
 - [topcoat-grid](https://github.com/topcoat/grid)
@@ -38,3 +26,6 @@ Inspiration
 - [codepen.io/marcolago/pen/lqGFb](http://codepen.io/marcolago/pen/lqGFb)
 - [philipwalton.github.io/solved-by-flexbox/demos/grids](http://philipwalton.github.io/solved-by-flexbox/demos/grids/)
 - [davidwalsh.name/stylus-grid](http://davidwalsh.name/stylus-grid)
+
+### NOTES
+A large portion of the parent Repo was removed to better suit our needs.
