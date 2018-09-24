@@ -1,6 +1,6 @@
 {
   "name": "flexboxgrid",
-  "version": "6.3.2",
+  "version": "6.3.3",
   "description": "Grid based off of CSS3 flexbox specification forked for Inline CSS.",
   "style": "dist/flexboxgrid.css",
   "main": "dist/flexboxgrid.css",
